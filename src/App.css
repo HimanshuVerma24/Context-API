@@ -1,0 +1,27 @@
+body{
+    background-color: antiquewhite;
+}
+button{
+    height: 30px;
+    width: 40px;
+    margin-left: 650px;
+    display: flex;
+    background-color: antiquewhite;
+    background-image: url(./img/1.png);
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    text-align: center;
+    border-radius: 50px 50px;
+    border: 2px solid black;
+}
+
+p{
+    text-align: center;
+    font-size: 30px;
+}
+
+img{
+    margin-left: 570px;
+}
